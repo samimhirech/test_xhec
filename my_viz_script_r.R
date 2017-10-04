@@ -6,5 +6,5 @@ library(dygraphs)
 
 #importe files
 
-objects <- read.csv2()
+objects <- read.csv2() #not good
 
